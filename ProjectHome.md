@@ -1,0 +1,1 @@
+[BEAST2](http://code.google.com/p/beast2/) add on for creating phylogenetic graphics for high quality output via Latex
